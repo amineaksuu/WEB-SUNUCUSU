@@ -1,5 +1,3 @@
-# WEB SUNUCUSU
-Final değerlendirme ödevi 2 
 # Basit Java Web Sunucusu (Socket Programlama)
 
 ## 🎯 Amaç
